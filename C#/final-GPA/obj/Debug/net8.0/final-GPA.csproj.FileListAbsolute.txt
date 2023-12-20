@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\C#\final-GPA\bin\Debug\net8.0\final-GPA.exe
+C:\Users\Administrator\Desktop\C#\final-GPA\bin\Debug\net8.0\final-GPA.deps.json
+C:\Users\Administrator\Desktop\C#\final-GPA\bin\Debug\net8.0\final-GPA.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#\final-GPA\bin\Debug\net8.0\final-GPA.dll
+C:\Users\Administrator\Desktop\C#\final-GPA\bin\Debug\net8.0\final-GPA.pdb
+C:\Users\Administrator\Desktop\C#\final-GPA\obj\Debug\net8.0\final-GPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C#\final-GPA\obj\Debug\net8.0\final-GPA.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#\final-GPA\obj\Debug\net8.0\final-GPA.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#\final-GPA\obj\Debug\net8.0\final-GPA.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#\final-GPA\obj\Debug\net8.0\final-GPA.dll
+C:\Users\Administrator\Desktop\C#\final-GPA\obj\Debug\net8.0\refint\final-GPA.dll
+C:\Users\Administrator\Desktop\C#\final-GPA\obj\Debug\net8.0\final-GPA.pdb
+C:\Users\Administrator\Desktop\C#\final-GPA\obj\Debug\net8.0\final-GPA.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C#\final-GPA\obj\Debug\net8.0\ref\final-GPA.dll
